@@ -4,7 +4,7 @@ version: v1.22.1
 ignore:
   SNYK-CC-TF-11:
     - '*':
-        reason: Ignore #3
+        reason: Ignore 3
         expires: 2024-03-20T18:47:59.705Z
         created: 2022-02-18T18:47:59.709Z
 patch: {}
